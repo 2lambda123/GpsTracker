@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/GpsTracker](https://github.com/2lambda123/GpsTracker)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|24<br/>Tools used|12/29/23 <br/>Report generated|
+|25<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -239,7 +239,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (4)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (5)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg'/> NuGet (3)
 
@@ -248,6 +248,13 @@ Full tech stack [here](/techstack.md)
 |[Microsoft.Bcl](https://www.nuget.org/Microsoft.Bcl)|v1.1.6|11/30/13|nickfox |N/A|N/A|
 |[Microsoft.Bcl.Build](https://www.nuget.org/Microsoft.Bcl.Build)|v1.0.13|11/30/13|nickfox |N/A|N/A|
 |[Microsoft.Net.Http](https://www.nuget.org/Microsoft.Net.Http)|v2.2.18|11/30/13|nickfox |Apache-2.0|N/A|
+
+
+## <img width='24' height='24' src='https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png'/> CocoaPods (1)
+
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[AFNetworking](https://cocoapods.org/pods/AFNetworking)|v2.5.1|03/12/15|Nick Fox |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png'/> Apache Maven (1)
