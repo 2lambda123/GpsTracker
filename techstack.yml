@@ -2,11 +2,11 @@ repo_name: 2lambda123/GpsTracker
 report_id: f3677c08739c460367e0f17bdee6ab07
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:31:13+00:00'
+timestamp: '2024-01-05T08:13:56+00:00'
 requested_by: nickfox
 provider: github
 branch: master
-detected_tools_count: 24
+detected_tools_count: 25
 tools:
 - name: ASP.NET
   description: An open source web framework for building modern web apps and services
@@ -31,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -40,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker
   detection_source: Repo Metadata
 - name: Hack
   description: A programming language for HHVM that interoperates seamlessly with
@@ -50,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -60,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -70,6 +74,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/GpsTracker
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -80,6 +85,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -90,6 +96,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/GpsTracker
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -100,6 +107,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -109,6 +117,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker/blob/master/servers/php/mysql/gpstracker-09-14-14.sql
   detection_source: servers/php/mysql/gpstracker-09-14-14.sql
   last_updated_by: Nick Fox
   last_updated_on: 2014-01-14 23:43:01.000000000 Z
@@ -121,6 +130,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker/blob/master/phoneClients/ios/Podfile
   detection_source: phoneClients/ios/Podfile
   last_updated_by: Nick Fox
   last_updated_on: 2014-09-17 20:26:45.000000000 Z
@@ -134,6 +144,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker/blob/master/phoneClients/windowsPhone/GPSTracker/packages.config
   detection_source: phoneClients/windowsPhone/GPSTracker/packages.config
   last_updated_by: nickfox
   last_updated_on: 2013-11-30 02:15:22.000000000 Z
@@ -159,6 +170,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -169,6 +181,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker/blob/master/phoneClients/android-wp/app/build.gradle
   detection_source: phoneClients/android-wp/app/build.gradle
   last_updated_by: Nick Fox
   last_updated_on: 2015-09-30 12:44:49.000000000 Z
@@ -180,6 +193,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/GpsTracker/blob/master/phoneClients/windowsPhone/GPSTracker/packages.config
   detection_source: phoneClients/windowsPhone/GPSTracker/packages.config
   last_updated_by: nickfox
   last_updated_on: 2013-11-30 02:15:22.000000000 Z
@@ -192,6 +206,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker/blob/master/phoneClients/windowsPhone/GPSTracker.sln
   detection_source: phoneClients/windowsPhone/GPSTracker.sln
   last_updated_by: nickfox
   last_updated_on: 2013-11-30 02:15:22.000000000 Z
@@ -202,6 +217,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3183/1181541.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker/blob/master/phoneClients/ios/Podfile
   detection_source: phoneClients/ios/Podfile
   last_updated_by: Nick Fox
   last_updated_on: 2015-03-12 12:57:39.000000000 Z
@@ -226,6 +242,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker/blob/master/phoneClients/ios/Podfile.lock
   detection_source: phoneClients/ios/Podfile.lock
   last_updated_by: Nick Fox
   last_updated_on: 2014-01-02 11:23:47.000000000 Z
@@ -273,6 +290,20 @@ tools:
   detection_source: phoneClients/windowsPhone/GPSTracker/packages.config
   last_updated_by: nickfox
   last_updated_on: 2013-11-30 02:15:22.000000000 Z
+- name: AFNetworking
+  description: A delightful networking framework for Apple platforms
+  package_url: https://cocoapods.org/pods/AFNetworking
+  version: 2.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/package/cocoapods/image.png
+  detection_source_url: https://github.com/2lambda123/GpsTracker/blob/master/phoneClients/ios/Podfile.lock
+  detection_source: phoneClients/ios/Podfile
+  last_updated_by: Nick Fox
+  last_updated_on: 2015-03-12 12:57:39.000000000 Z
 - name: com.loopj.android:android-async-http
   description: An Asynchronous HTTP Library for Android
   version: 1.4.9
